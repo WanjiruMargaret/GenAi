@@ -1,4 +1,5 @@
-# Toolkit: Safe Prompt Template
+<!--
+ Toolkit: Safe Prompt Template
 
 ## Purpose
 
@@ -119,12 +120,4 @@ Audience: Employees
 Content Boundaries: No real passwords or sensitive client data
 Formatting: Markdown headings, bullet lists, tables, code snippets
 Purpose: Train staff on security best practices
-```
-
-
-
-
-
-
-What are the problems that you think might come up?
-What are the things you'd use AI for ?
+-->
