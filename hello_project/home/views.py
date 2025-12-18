@@ -5,12 +5,13 @@ from django.shortcuts import render
 # Create your views here.
 def home_view(request):
     messages = [
-        "That's what's meant to happen!",
-        "Oooh you pressed it again!😁",
-        "Again!😏I think you want to invite me for a drink😅",
+        "Hello there!👋",
+        "You excited for us to interact!",
+        "Oooh you pressed it again!soo u are interested😁",
+        "😏I think you want to invite me for a drink😅",
         "You sure?",  
         "Woww,Okey let's go coz you insisted!😜",
-        "Okey now Sherehee ndo kuanza!!🎉"
+        "Okey now...Sherehee ndo kuanza!!🎉"
     ]
 
     #get the messages by default to 0
